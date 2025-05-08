@@ -1,2 +1,3 @@
-# Distributed-File-Storage-System-with-Encryption-Fault-Tolerance
-A Python-based distributed file storage system with role-based access, encryption, node replication, and fault-tolerant retrieval using CLI-based operations.
+# Distributed File Storage System with Encryption and Fault Tolerance
+
+This project simulates a distributed file storage system using Python.
